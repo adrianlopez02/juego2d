@@ -19,6 +19,8 @@ import static com.sun.org.apache.xalan.internal.lib.ExsltDatetime.time;
  *
  * @author pokea
  */
+
+//hola
 public class XXXTentacion extends Image{
     TextureRegion stand;
     float xVelocity = 5; // velocidad constante
